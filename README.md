@@ -1,7 +1,9 @@
 # Hi, I'm Andrew 👋
 
 🎓 Computer Science @ Stony Brook University
+
 💻 Software Engineer focused on full-stack development and scalable systems
+
 🚀 Interested in building impactful, real-world applications
 
 ---
