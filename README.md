@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Andrew 👋
 
-<!--
-**AndrewLin77/AndrewLin77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ Stony Brook University
+💻 Software Engineer focused on full-stack development and scalable systems
+🚀 Interested in building impactful, real-world applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:**
+Java, Python, C, JavaScript, TypeScript, SQL
+
+**Frameworks & Tools:**
+React, Next.js, Node.js, Express, Spring Boot, Flask, FastAPI
+PostgreSQL, MongoDB, Docker, AWS, GitHub Actions
+
+---
+
+## 📈 Currently
+
+* Teaching Assistant for Object-Oriented Programming (Java)
+* Building full-stack applications with real-world impact
+* Exploring system design and scalable architectures
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/andrewlin16
+* Email: [andrewlin185@gmail.com](mailto:andrewlin185@gmail.com)
+
+---
+
+⭐️ Always open to collaboration and opportunities!
