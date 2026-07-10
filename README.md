@@ -2,7 +2,7 @@
 
 🎓 Computer Science @ Stony Brook University
 
-💻 Software Engineer focused on full-stack development and scalable systems
+💻 Software Engineer focused on full-stack development and AI/ML
 
 🚀 Interested in building impactful, real-world applications
 
@@ -21,9 +21,8 @@ PostgreSQL, MongoDB, Docker, AWS, GitHub Actions
 
 ## 📈 Currently
 
-* Teaching Assistant for Object-Oriented Programming (Java)
-* Building full-stack applications with real-world impact
-* Exploring system design and scalable architectures
+* AI/ML Fellow @ Cornell Tech
+* SWE Intern @ Chaince Digital
 
 ---
 
